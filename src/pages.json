@@ -11,8 +11,6 @@
 		"navigationBarTextStyle": "black",
 		"navigationBarTitleText": "uni-app",
 		"navigationBarBackgroundColor": "#F8F8F8",
-		"backgroundColor": "#F8F8F8",
-		"navigationStyle": "custom", //取消默认导航栏
-		"enablePullDownRefresh": false //开启下拉刷新
+		"backgroundColor": "#F8F8F8"
 	}
 }
