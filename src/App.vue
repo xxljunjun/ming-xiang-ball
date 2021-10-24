@@ -14,4 +14,9 @@
 
 <style>
 	/*每个页面公共css */
+	/* .status_bar {
+    height: var(--status-bar-height);
+    width: 100%;
+    margin-top: 40rpx;
+  } */
 </style>
